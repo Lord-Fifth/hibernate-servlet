@@ -15,7 +15,7 @@ public class HibernateInsert {
         
         //Add new Employee object
         EmployeeEntity emp = new EmployeeEntity();
-        emp.setNo(102);
+        emp.setNo(105);
         emp.setBdate("1997-09-21");
         emp.setFname("Loo");
         emp.setLname("Bla");
